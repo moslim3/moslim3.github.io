@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <pagescount>
-	<html_total>8</html_total>
+	<html_total>6</html_total>
 	<html_done>1</html_done>
-	<images>13</images>
-	<script>98</script>
-	<css>8</css>
+	<images>4</images>
+	<script>22</script>
+	<css>10</css>
 	<pdf/>
 	<documents/>
 	<excel/>
 	<powerpoint/>
 	<flash/>
 	<audios/>
-	<videos/>
+	<videos>1</videos>
 	<xml/>
-	<json>8</json>
+	<json/>
 	<txt/>
 	<autocad/>
 	<fonts>333</fonts>
-	<scraping_reload>2</scraping_reload>
+	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>6986@pierson.nl</email>
-	<theme_name>WmdTheme702412</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/6986291.wixsite.com_6986_pierson.nl_kh4xjp402v/</server_url_front_page>
+	<theme_name>WmdTheme702638</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/6986291.wixsite.com_6986_pierson.nl_tosy6gorae/</server_url_front_page>
 	<no_www_url>6986291.wixsite.com</no_www_url>
 	<hosted_domain/>
-	<original_archive_url>https://6986291.wixsite.com/mijnsite/diensten</original_archive_url>
-	<final_archive_url>https://6986291.wixsite.com/mijnsite/diensten</final_archive_url>
+	<original_archive_url>https://6986291.wixsite.com/mijnsite/service-page/hijama-nat-cupping</original_archive_url>
+	<final_archive_url>https://6986291.wixsite.com/mijnsite/service-page/hijama-nat-cupping</final_archive_url>
 	<front_page_code_date/>
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>91820</total_size>
-</pagescount>
+	<total_size>8</total_size>
+<json_from_script>25</json_from_script></pagescount>
